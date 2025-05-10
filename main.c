@@ -27,6 +27,7 @@ To print, need format specifiers*/
 /*  for int use %d / %i
     for float use %f
     for char use %c
+    for string use %s
 those should be in double qutation
 */
 /*
